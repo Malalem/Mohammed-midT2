@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mohammed-midT2</string>
+    <string name="id" />
+    <string name="name" />
+    <string name="surname" />
+    <string-array name="cities">
+        <item>London</item>
+        <item>Jeddah</item>
+        <item>Riyadh</item>
+        <item>Texas</item>
+    </string-array>
+</resources>
